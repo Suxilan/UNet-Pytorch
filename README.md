@@ -24,7 +24,7 @@
 ### 没有使用内置函数和mmsegmentation等第三方库，为了学习完全手搓
 * `FCN + UNet` 经典架构
 * `FCN + UNet++`
-* `Inceptionv3 + DeeplabV3+`
+* `ResNet101 + DeeplabV3+`
 
 ---
 
